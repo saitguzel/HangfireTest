@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "4R0zZ+OOCjKqGP3fgFF4AoCs/DCY9zJwEXqPISJ0PeTh2Eh1L4zaHLovcx2/f3IwQeyzizl6C0srfbQICWSo5g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\source\\repos\\Hangfire.Postgresql.Api\\Hangfire.Producer\\Hangfire.Producer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\hangfire\\1.8.12\\hangfire.1.8.12.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\hangfire.aspnetcore\\1.8.12\\hangfire.aspnetcore.1.8.12.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\hangfire.core\\1.8.12\\hangfire.core.1.8.12.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\hangfire.dashboard.basic.authentication\\7.0.1\\hangfire.dashboard.basic.authentication.7.0.1.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\hangfire.netcore\\1.8.12\\hangfire.netcore.1.8.12.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\hangfire.postgresql\\1.20.8\\hangfire.postgresql.1.20.8.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\hangfire.sqlserver\\1.8.12\\hangfire.sqlserver.1.8.12.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.0.0\\microsoft.extensions.configuration.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.0\\microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.0.0\\microsoft.extensions.fileproviders.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\3.0.0\\microsoft.extensions.hosting.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\newtonsoft.json\\11.0.1\\newtonsoft.json.11.0.1.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\npgsql\\6.0.0\\npgsql.6.0.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
